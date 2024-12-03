@@ -1,4 +1,4 @@
-# Pubmed Data Scraper
+# NIH PubMed Data Scraper
 
 Built this for a UCLA-based Startup as their Sr. Data and AI Engineer. Check out [BioStrive's Website.](https://biostrive.org).
 
